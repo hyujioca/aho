@@ -2,7 +2,7 @@ import pygame
 import random
 
 pygame.init()
-
+#バカ
 # 色の定義
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
