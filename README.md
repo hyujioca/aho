@@ -1,2 +1,2 @@
-# maze
+# trash
 ごみ
